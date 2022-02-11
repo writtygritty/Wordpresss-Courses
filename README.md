@@ -14,6 +14,6 @@ WordPress is a free and open-source content management system written in PHP and
 6. [20 Must-have Free plugins for WordPress](https://scholarbasta.com/free-plugins-for-wordpress/)<br><br>
 7. [knowing the Best Rating Plugins for WordPress](https://buddymantra.com/best-rating-plugins-for-wordpress/)<br><br>
 
-😄 Connect with me on my blog<br>
+😄 Connect with me on my blog<br><br><br>
    [Buddymantra](https://buddymantra.com/about)<br>
    [Writtygritty](https://writtygritty.com)
